@@ -1,0 +1,1 @@
+File in write mode .....This is file program/n File in append mode ......Hi! I am Akshat. I am 13 years oldI am learning file handling now!!
